@@ -10,7 +10,7 @@ AWS Certified Full Stack Web *Developer*
 
 TECH *SAVVY* having 3+ years work experience in IT Industry. A huge Technology Lover and always like to get my hands dirty on experimenting new technologies. Spend my free time in watching movies, cricket and also playing table-tennis.
 
-📫 How to reach me: 
+📫  How to reach me: 
 
 [![alt text][2.1]][2] [![alt text][1.1]][1]
 
@@ -25,8 +25,8 @@ TECH *SAVVY* having 3+ years work experience in IT Industry. A huge Technology L
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
